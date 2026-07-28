@@ -15,3 +15,5 @@ Most of that work is proprietary. The clearest picture of what I actually build,
 **Reach me** &nbsp;·&nbsp; [raveesh.dev](https://raveesh.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/raveeshrajkumar) &nbsp;·&nbsp; raveeshrajkumar@gmail.com
 
 <sub>Open to AI/ML engineer roles.</sub>
+
+<!-- profile -->
