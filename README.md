@@ -23,12 +23,12 @@ I own the AI engine of an enterprise NL2SQL platform, and I built the search-and
 | **Universal scraper** | One LLM scraper doing the work of 45 hand-coded ones. | 45 &#8594; 1 |
 | **Event platform** | Registration, payments, and on-site check-in, built end to end. | 10,000+ in a day |
 
-Full write-ups, architecture diagrams, and the reasoning behind each call live at **[raveesh.dev](https://raveesh.dev)**.
+Every project above is written up in full on the site, with architecture diagrams and the trade-offs behind each decision.
 
 **Focus** &nbsp;&#183;&nbsp; production GenAI &nbsp;&#183;&nbsp; RAG and hybrid retrieval &nbsp;&#183;&nbsp; LLM orchestration and agents &nbsp;&#183;&nbsp; multimodal document AI &nbsp;&#183;&nbsp; evals and reliability
 
 **Stack** &nbsp;&#183;&nbsp; Python &nbsp;&#183;&nbsp; FastAPI &nbsp;&#183;&nbsp; LangGraph &nbsp;&#183;&nbsp; Gemini &nbsp;&#183;&nbsp; Qdrant &nbsp;&#183;&nbsp; pgvector &nbsp;&#183;&nbsp; Docling &nbsp;&#183;&nbsp; GCP Cloud Run &nbsp;&#183;&nbsp; Playwright &nbsp;&#183;&nbsp; React
 
-**Reach me** &nbsp;&#183;&nbsp; [raveesh.dev](https://raveesh.dev) &nbsp;&#183;&nbsp; [LinkedIn](https://www.linkedin.com/in/raveeshrajkumar) &nbsp;&#183;&nbsp; raveeshrajkumar@gmail.com
+**Reach me** &nbsp;&#183;&nbsp; [LinkedIn](https://www.linkedin.com/in/raveeshrajkumar) &nbsp;&#183;&nbsp; raveeshrajkumar@gmail.com
 
 <sub>Open to AI/ML engineer roles.</sub>
