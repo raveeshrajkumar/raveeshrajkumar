@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+  <defs>
+    <pattern id="gridl" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#0b0c0e" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="380" fill="#f6f6f3"/>
+  <rect width="1200" height="380" fill="url(#gridl)"/>
+
+  <rect x="16.5" y="16.5" width="1167" height="347" fill="none" stroke="#0b0c0e" stroke-opacity="0.18" stroke-width="1"/>
+  <path d="M16 40V16H40" fill="none" stroke="#1e40ff" stroke-width="2"/>
+  <path d="M1184 340V364H1160" fill="none" stroke="#1e40ff" stroke-width="2"/>
+
+  <text x="48" y="66" font-size="16" letter-spacing="4" fill="#0b0c0e" fill-opacity="0.55">RAVEESH RAJKUMAR &#183; AI ENGINEER &#183; BANGALORE</text>
+
+  <text x="46" y="180" font-size="62" font-weight="700" letter-spacing="-2" fill="#0b0c0e">I ship GenAI systems</text>
+  <text x="46" y="256" font-size="62" font-weight="700" letter-spacing="-2">
+    <tspan fill="#0b0c0e">that </tspan><tspan fill="#1e40ff">survive</tspan><tspan fill="#0b0c0e"> production.</tspan>
+  </text>
+  <rect x="232" y="266" width="252" height="6" fill="#1e40ff"/>
+
+  <text x="48" y="330" font-size="17" letter-spacing="1.5" fill="#0b0c0e" fill-opacity="0.6">45 scrapers &#8594; 1&#160;&#160;&#160;&#183;&#160;&#160;&#160;response time 8s &#8594; &lt;2s&#160;&#160;&#160;&#183;&#160;&#160;&#160;in production @ a top-10 pharma</text>
+
+  <rect x="1140" y="316" width="12" height="20" fill="#1e40ff"/>
+</svg>
