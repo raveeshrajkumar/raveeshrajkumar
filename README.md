@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raveeshrajkumar/raveeshrajkumar/main/assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raveeshrajkumar/raveeshrajkumar/main/assets/banner-light.svg">
-  <img alt="Raveesh Rajkumar · AI Engineer shipping production GenAI for pharma" src="https://raw.githubusercontent.com/raveeshrajkumar/raveeshrajkumar/main/assets/banner-dark.svg">
-</picture>
+<a href="https://raveesh.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raveeshrajkumar/raveeshrajkumar/main/assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raveeshrajkumar/raveeshrajkumar/main/assets/banner-light.svg">
+    <img alt="Raveesh Rajkumar · AI Engineer shipping production GenAI for pharma · raveesh.dev" src="https://raw.githubusercontent.com/raveeshrajkumar/raveeshrajkumar/main/assets/banner-dark.svg">
+  </picture>
+</a>
 
 <br>
 

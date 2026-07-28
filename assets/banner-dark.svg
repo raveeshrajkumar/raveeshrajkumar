@@ -17,6 +17,10 @@
   <!-- kicker -->
   <text x="48" y="66" font-size="16" letter-spacing="4" fill="#e9e9ec" fill-opacity="0.5">RAVEESH RAJKUMAR &#183; AI ENGINEER &#183; BANGALORE</text>
 
+  <!-- site link button (top-right) -->
+  <rect x="980" y="40" width="188" height="34" fill="none" stroke="#2e5bff"/>
+  <text x="1074" y="62" text-anchor="middle" font-size="16" letter-spacing="1" fill="#6f8cff">raveesh.dev&#160;&#160;&#8599;</text>
+
   <!-- headline -->
   <text x="46" y="180" font-size="62" font-weight="700" letter-spacing="-2" fill="#e9e9ec">I ship GenAI systems</text>
   <text x="46" y="256" font-size="62" font-weight="700" letter-spacing="-2">
